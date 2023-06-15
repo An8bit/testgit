@@ -8,5 +8,5 @@ def tim_uoc_chung_lon_nhat(a, b):
         nho = lon % nho
         lon = temp
     return print("manh nhat",lon)
-    
+    //ngu
 tim_uoc_chung_lon_nhat(24,6)
