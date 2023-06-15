@@ -10,11 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //thành an aaaaaaaaaaaaadsssssssbsakfhksabfsahhhhhhhhhh
-            sssss
-            2qfadfsdfsdfsdfsd
+            Console.WriteLine("hiiiii");
         
         }
-        static void heo()
+       
     }
 }
