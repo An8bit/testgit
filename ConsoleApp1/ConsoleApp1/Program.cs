@@ -14,5 +14,6 @@ namespace ConsoleApp1
             sssss
             2
         }
+        static void heo()
     }
 }
