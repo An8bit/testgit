@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             //thành an aaaaaaaaaaaaadsssssssbsakfhksabfsahhhhhhhhhh
             sssss
-            2
+            2q
         
         }
         static void heo()
